@@ -3,7 +3,7 @@ This data is a matlab coding. It is an implementation of a reasearch work using 
 
 Cite the following articles:
 
-19.Dosti Kh. Abbas, Tarik A. Rashid, Karmand H. Abdalla, Nebojsa Bacanin, Abeer Alsadoon. (2021) Using Fitness Dependent Optimizer for Training Multi-layer Perceptron. Journal of Internet Technology. Volume 22 (2021) No.7. DOI: https://doi.org/10.53106/160792642021122207011
+Dosti Kh. Abbas, Tarik A. Rashid, Karmand H. Abdalla, Nebojsa Bacanin, Abeer Alsadoon. (2021) Using Fitness Dependent Optimizer for Training Multi-layer Perceptron. Journal of Internet Technology. Volume 22 (2021) No.7. DOI: https://doi.org/10.53106/160792642021122207011
 
 J. M. Abdullah and T. A. Rashid (2019). Fitness Dependent Optimizer: Inspired by the Bee Swarming Reproductive Process," in IEEE Access, vol. 7, pp. 43473-43486. DOI:https://doi.org/10.1109/ACCESS.2019.2907012
 
